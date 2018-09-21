@@ -1,6 +1,9 @@
 '''("Authors: Freese, Stockla, DePeza")
  ("CS 201, 9/8/2014")
- ("Lab2, Question #4, Time conversions")'''
+ ("Lab2, Question #4, Time conversions")
+ 
+ Converts hours into min and seconds
+ '''
 
 hours = int(input("Enter number of hours"))
 min = int(input("Enter number of minutes"))
