@@ -7,6 +7,8 @@ Lab 3: Conditionals
 
 Age Classifier
 
+States what classification a given age is
+
 '''
 
 age = int(input("Enter age"))
