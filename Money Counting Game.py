@@ -7,6 +7,7 @@ Lab 3: Conditionals
 
 Money Counting Game
 
+Try to make change for a perfect dollar!
 '''
 
 pennies=int(input("Enter number of pennies"))
